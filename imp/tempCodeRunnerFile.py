@@ -1,0 +1,1 @@
+face_detection(image_path, cascade_path)
